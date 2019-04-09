@@ -11,20 +11,34 @@ Simple 2D Snake game with some graphic
 
 ## Game
 
-To play, first choose the level..
+<p align="center">
+
+<br>To play, first choose the level..<br>
+
+
+
+<img src="https://user-images.githubusercontent.com/25400249/50858735-8db2c600-1391-11e9-8c1b-7e2119ae8e7b.PNG" width="400" />
+</p>
+
 
 <p align="center">
 
-<img src="https://user-images.githubusercontent.com/25400249/50858735-8db2c600-1391-11e9-8c1b-7e2119ae8e7b.PNG" width="400" />
+<br>and than use arrow buttons to move the snake.<br>
 
-and than use arrow buttons to move the snake.
+
 
 <img src="https://user-images.githubusercontent.com/25400249/50858732-8d1a2f80-1391-11e9-81ae-c449b01bb88e.PNG" width="400" />
+</p>
 
-Watch out for stones, they are killing! 
+
+<p align="center">
+
+<br>Watch out for stones, they are killing!<br> 
 
 <img src="https://user-images.githubusercontent.com/25400249/50858733-8db2c600-1391-11e9-8cbd-c0ccfaf53f55.PNG" width="400" />
 
 
-Hope you have some fun!
 
+
+<br>Hope you have some fun!
+</p>
